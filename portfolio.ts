@@ -37,9 +37,9 @@ export const contact = {
 
 // Social Links Section
 export const socialLinks: SocialLinksType = {
-  email: "mailto:zulfiqar.ali01@utrgv.edu",
+  email: "mailto:zulfiqarcomsats@gmail.com",
   linkedin: "https://www.linkedin.com/in/zulfiqar-ali01/",
-  github: "https://github.com/zulfiqarAlibalti",
+  github: "https://github.com/zulfiqar-ali01",
   twitter: "https://twitter.com/Zulfiqa08762401",
   facebook: "https://www.facebook.com/Zulfibalti/",
   instagram: "https://www.instagram.com/zulfibalti96/?hl=en",
